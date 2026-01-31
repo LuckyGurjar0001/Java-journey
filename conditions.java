@@ -1,4 +1,4 @@
-public class condition {
+public class conditions {
     public static void main(String[] args) {
         // Exapmple of weather:
         int weather = 3;
